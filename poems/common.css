@@ -1,0 +1,14 @@
+main {
+        margin: 50px auto;
+        width: clamp(200px, 500px, 90%);
+      }
+      .time {
+        color: #666;
+      }
+      .content {
+        margin: 24px 0;
+        font-size: 16px;
+      }
+      .comment {
+        font-size: 14px;
+      }
