@@ -1,0 +1,10 @@
+{
+  "name": "iamtmoe.github.io",
+  "version": "1.0.0",
+  "description": "一何有尔的个人网站",
+  "scripts": {
+    "gen": "node scripts/gen.js"
+  },
+  "author": "一何有尔",
+  "license": "MIT"
+}
