@@ -33,6 +33,9 @@ main {
 .social-media-link em {
   font-style: italic; /* 斜体 */
   color: #666; /* 稍微淡的颜色 */
+}
+.social-media-link a em {
+  font-size: 0.9em;
   text-decoration: underline;
 }
 ul {
