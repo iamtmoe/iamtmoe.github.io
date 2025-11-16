@@ -122,6 +122,21 @@ h1 {
   margin-bottom: 10px;
 }
 
+/* 引用样式 - Markdown风格 */
+blockquote {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-left: 4px solid #0066cc;
+  background-color: #f8f9fa;
+  color: #555;
+  font-style: italic;
+  border-radius: 0 4px 4px 0;
+}
+
+blockquote p {
+  margin: 0;
+}
+
 /* 导航链接样式 */
 .nav-links {
   display: flex;
